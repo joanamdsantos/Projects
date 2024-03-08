@@ -1,2 +1,2 @@
 # Projects
-Data Science Projects
+Data Science Projects developed in courses and projects.
